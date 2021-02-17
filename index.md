@@ -4,7 +4,7 @@
 
 ### Software Development
 
-[Wellness Tracker](/wellness_tracker)
+[Wellness Tracker](/wellness_tracker.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
