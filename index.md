@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Software Development
 
-[Project 1 Title](/sample_page)
+[Wellness Tracker](/wellness_tracker)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,13 +17,11 @@
 
 ---
 
-### Category Name 2
+### Data Science
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Analytzing NYC SAT Data](https://github.com/kadinsayani/Analyzing-NYC-High-School-SAT-Data)
+- [Iris Flower Classification](https://github.com/kadinsayani/MLModels/blob/main/Iris_Flower_Classification.ipynb)
+- [Titanic Linear Regression](https://github.com/kadinsayani/MLModels/blob/main/Titanic_Linear_Regression.ipynb)
 
 ---
 
