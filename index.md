@@ -16,7 +16,7 @@
 
 ### Data Science
 
-- [Analytzing NYC SAT Data](https://github.com/kadinsayani/Analyzing-NYC-High-School-SAT-Data)
+- [Analyzing NYC SAT Data](https://github.com/kadinsayani/Analyzing-NYC-High-School-SAT-Data)
 - [Iris Flower Classification](https://github.com/kadinsayani/MLModels/blob/main/Iris_Flower_Classification.ipynb)
 - [Titanic Linear Regression](https://github.com/kadinsayani/MLModels/blob/main/Titanic_Linear_Regression.ipynb)
 
